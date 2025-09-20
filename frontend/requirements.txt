@@ -1,0 +1,13 @@
+streamlit>=1.25.0
+pandas
+requests
+xlsxwriter
+streamlit-aggrid
+matplotlib
+numpy
+sqlalchemy
+psycopg2-binary
+pymysql
+python-pptx
+reportlab
+Pillow

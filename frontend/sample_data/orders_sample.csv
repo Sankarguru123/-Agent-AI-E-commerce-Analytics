@@ -1,0 +1,2 @@
+OrderID,CustomerID,CustomerName,ProductID,ProductName,ProductCategory,Quantity,Price,OrderDate
+1,CUST0001,Sankar,PROD-1,Product 1,Electronics,2,199.99,2025-01-05
