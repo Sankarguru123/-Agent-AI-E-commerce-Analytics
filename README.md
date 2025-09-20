@@ -204,5 +204,7 @@ The backend includes `_convert_sql_to_sqlite()` that rewrites invalid SQL (like 
 ![Frontend UI](frontend/ecom_1.png)
 -------------------------------------
 ![Frontend UI](frontend/ecom_2.png)
+------------------------------------
+![Frontend UI](frontend/img.png)
 
 -----
