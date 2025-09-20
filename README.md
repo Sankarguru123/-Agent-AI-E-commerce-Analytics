@@ -196,3 +196,13 @@ Response:
 The backend includes `_convert_sql_to_sqlite()` that rewrites invalid SQL (like `EXTRACT(MONTH FROM OrderDate)`) into valid SQLite (`strftime('%m', OrderDate)`).
 
 ---
+
+## 🖼️ Agent AI E-commerce Analytics Screenshot
+
+![Frontend UI](frontend/ecom_output.png)
+---------------------------------------
+![Frontend UI](frontend/ecom_1.png)
+-------------------------------------
+![Frontend UI](frontend/ecom_2.png)
+
+-----
